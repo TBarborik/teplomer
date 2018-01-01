@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/change_to_thermometer"
+        android:title="@string/thermometer_url"
+        />
+    <item android:id="@+id/change_to_dumb"
+        android:title="@string/dumb_data_url"
+        />
+</menu>

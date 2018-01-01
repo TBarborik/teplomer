@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Teploměr (IMP)</string>
+    <string name="temperature_placeholder">Načítání…</string>
+    <string name="history">Historie</string>
+    <string name="history_placeholder"></string>
+
+    <string name="close">Zavřít</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_home">Domů</string>
+    <string name="nav_chart">Graf</string>
+    <string name="nav_history">Historie</string>
+
+    <string name="thermometer_url">Reálné hodnoty (teploměr)</string>
+    <string name="dumb_data_url">Zástupné hodnoty (demo)</string>
+</resources>
